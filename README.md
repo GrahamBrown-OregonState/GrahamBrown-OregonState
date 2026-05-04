@@ -3,7 +3,7 @@ I'm a Computer Science Systems undergrad @ Oregon State University. I'm interest
 
 Currently seeking fun, open-source projects to collaborate on!
 
-### Languages
+## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -15,12 +15,18 @@ Currently seeking fun, open-source projects to collaborate on!
 -->
 
 
-### Compilers
+## Compilers
 ![Alex](https://img.shields.io/badge/Alex-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Happy](https://img.shields.io/badge/Happy-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
+## Web
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools
+
+## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
