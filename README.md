@@ -25,6 +25,10 @@ Currently seeking fun, open-source projects to collaborate on!
 ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## Hardware
+![Edge](https://img.shields.io/badge/systemverilog-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Quartus](https://img.shields.io/badge/intel_quartus-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)
+
 
 ## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
