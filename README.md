@@ -1,5 +1,5 @@
 ## Hello! I'm Graham!
-I'm a Computer Science Systems undergrad @ Oregon State University. I'm interested in compilers, languages, networks, and infrastructure!
+I'm a Computer Science Systems undergrad @ Oregon State University. I'm interested in compilers, languages, games, and infrastructure!
 
 Currently seeking fun, open-source projects to collaborate on!
 
